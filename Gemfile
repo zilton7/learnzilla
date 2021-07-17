@@ -59,4 +59,5 @@ gem "haml-rails", "~> 2.0"
 gem "font-awesome-rails"
 gem "simple_form"
 gem "faker"
+gem "devise"
 
